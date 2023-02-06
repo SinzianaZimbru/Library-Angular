@@ -1,0 +1,18 @@
+*{
+    background-color: snow;
+}
+.login{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+    
+    form{
+        width: 40%;
+        margin: auto;
+        border: 3px solid darkgrey;
+        padding: 5rem 3rem;
+        border-radius: 5%;
+        margin-top: 10rem;
+    }
+}
